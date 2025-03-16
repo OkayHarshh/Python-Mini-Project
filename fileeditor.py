@@ -37,5 +37,3 @@ text = tk.Text(root, wrap=tk.WORD,font = ("Times New Roman", 18), fg = "black", 
 text.pack(expand=True, fill=tk.BOTH)
 
 root.mainloop()
-
-
