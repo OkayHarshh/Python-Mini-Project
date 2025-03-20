@@ -9,7 +9,7 @@ root.geometry("500x400")  # Set window size
 # Dictionary to store contacts
 contacts = {}
 
-# Function to create a new contact
+# Function to create a new contact9
 def create_contact():
     name = name_entry.get()
     phone = phone_entry.get()
